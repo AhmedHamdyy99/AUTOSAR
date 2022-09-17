@@ -1,8 +1,8 @@
 /**
  *  \file	TivaHW.c
  *  \brief 	This file includes information about Tiva C Hardware.
- *  \author	Ahmed Wageh.
- *  \date	24/5/2020
+ *  \author	Ahmed Hamdy.
+ *  \date	16/9/2022
  */
 
 /* Inclusion */
