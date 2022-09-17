@@ -1,7 +1,7 @@
 /**
  *  \file	PlatformTypes.h
- *  \author	Ahmed Wageh.
- *  \date	24/5/2020
+ *  \author	Ahmed Hamdy.
+ *  \date	16/9/2022
  */
 #ifndef PLATFORM_TYPES_H
 #define PLATFORM_TYPES_H
